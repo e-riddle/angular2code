@@ -1,0 +1,8 @@
+<ul>
+  <li *ngFor="let session of sessions">
+    <md-toolbar color="accent">{{session.title}}</md-toolbar>
+    <h4>{{session.speaker}}</h4>
+    <div>{{session.time}} in {{session.room}}</div>
+    <div [innerHtml]="session.body"></div>
+  </li>
+</ul>

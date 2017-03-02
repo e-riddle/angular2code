@@ -1,0 +1,43 @@
+<!--add a toolbar at the top with links to home and the sidenav toggle-->
+<md-toolbar class="md-padding" color="primary">
+  <div style="display:flex;justify-content:space-between;align-items:center;width: 100%;">
+    <md-icon (click)="sidenav.open()" style="cursor:pointer;">menu</md-icon>
+    <div style="flex:0 1 auto;">philly.NET Code Camp 2017.1</div>
+    <a [routerLink]="['/home']"><img src="assets/image/cropped-colorbell-32x32.png" /></a>
+  </div>
+</md-toolbar>
+
+<md-sidenav-container style="height:93vh;">
+
+  <!--create a sidenav with button links for navigation-->
+  <md-sidenav #sidenav>
+    <md-list>
+      <md-list-item>
+        <a [routerLink]="['/home']"><button md-button>Home</button></a>
+      </md-list-item>
+      <md-list-item>
+        <a [routerLink]="['/sponsor']"><button md-button>Sponsors</button></a>
+      </md-list-item>
+      <md-list-item>
+        <a [routerLink]="['/friday']"><button md-button>Friday 2/24</button></a>
+      </md-list-item>
+      <md-list-item>
+        <a [routerLink]="['/saturday']"><button md-button>Saturday 2/25</button></a>
+      </md-list-item>
+      <md-list-item>
+        <a [routerLink]="['/speaker']"><button md-button>Speakers</button></a>
+      </md-list-item>
+      <md-list-item>
+        <a [routerLink]="['/room']"><button md-button>Room Finder</button></a>
+      </md-list-item>
+      <md-list-item>
+        <a [routerLink]="['/faq']"><button md-button>Attendee FAQ</button></a>
+        <md-divider></md-divider>
+      </md-list-item>
+    </md-list>
+  </md-sidenav>
+
+  <!--routed component views appear here-->
+  <router-outlet></router-outlet>
+
+</md-sidenav-container>

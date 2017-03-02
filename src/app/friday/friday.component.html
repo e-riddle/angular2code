@@ -1,0 +1,10 @@
+<md-list>
+  <md-toolbar color="accent">
+    8:30-4:00
+  </md-toolbar>
+  <md-list-item *ngFor="let s of sessions">
+    <h3 md-line>{{ s.speaker }} <span class="md-caption">{{s.badge}}</span> <small>in {{ s.room }}</small></h3>
+    <p md-line [innerHtml]="s.title"></p>
+    <button md-raised-button>Sold Out!</button>
+  </md-list-item>
+</md-list>

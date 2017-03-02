@@ -1,0 +1,9 @@
+<section>
+  <article *ngFor="let speaker of speakers">
+    {{speaker.speaker}}
+    <md-chip-list *ngIf="speaker.badge">
+      <md-chip color="accent">{{speaker.badge}}</md-chip>
+    </md-chip-list>
+    <img [src]="speaker.picture">
+  </article>
+</section>

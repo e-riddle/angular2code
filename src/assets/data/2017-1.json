@@ -1,0 +1,930 @@
+{
+  "camp": "2017.1",
+  "sessions": [
+    {
+      "date": "2017-02-25T13:30:59",
+      "time": "13:30",
+      "title": "A Whirlwind Tour of Xamarin",
+      "body": "<p>Xamarin allows C# and F# developers to target multiple platforms with the language and tools they love. Whether you're looking to build cross-platform mobile applications targeting iOS and Android or if you are hoping to build the next great Mac application, Xamain has you covered. In this session, I'll briefly cover where Xamarin came from (believe it or not it has been around since 2009!) and where it's heading before launching into a tour of its features and workflows. I'll show you how to use Xamarin Studio and Visual Studio to build iOS and Android applications. We'll take a look at Xamarin.Forms which helps you build cross-platform apps with a shared UI codebase. We'll also take a look at connected/disconnected apps that use Azure. You'll leave with enough knowledge to decide for yourself (or convince your boss!) that Xamarin is right for your project.</p>",
+      "room": "MPR I",
+      "speaker": "Brent Schooley",
+      "badge": "MVP"
+    },
+    {
+      "date": "2017-02-25T15:00:59",
+      "time": "15:00",
+      "title": "Build Blockchain Applications Using C# and .NET",
+      "body": "<p><h4>Intro to Blockchain technology</h4><ul><li>Basic concepts (consensus, node, POS, token, off-chain , sidechains)</li><li>Use cases</li></ul><h4>Programming Blockchain Apps in C#</h4><ul><li>Integration with Microsoft Azure/ BaaS (Project Bletchley/ Microsoft Decentralized Identity )</li></ul><h4>Overview of Workflow</h4><ul><li>The development tools ( Visual studio / Stratis Development Platform)</li><li>Deploying and Hosting your Blockchain App (Azure and Stratis Cloud)</li></ul></p>",
+      "room": "MPR I",
+      "speaker": "Dan Gershony",
+      "badge": ""
+    },
+    {
+      "date": "2017-02-25T08:30:59",
+      "time": "08:30",
+      "title": "Angular 2: What's Different",
+      "body": "<p>Haven't had a chance to dig into Angular2 yet? Waiting until it 'stabilizes' before spending your time to learn it? Tried out some of the 'Quick Starts' only to find out they weren't so quick? You're not alone. In this session, I will show you the basics of the newest version of AngularJS, the differences from Angular 1.x, and even show you the Angular-CLI which makes it drop-dead simple to get (and keep) an organized Angular2 project underway. I will even show you where ANgular2 doesn't shine so bright. You will leave with a better understanding of Angular2 and the knowledge to get started on the right path with the newest version of AngularJS!</p>",
+      "room": "Malvern",
+      "speaker": "Lee Brandt",
+      "badge": "MVP"
+    },
+    {
+      "date": "2017-02-25T13:30:59",
+      "time": "13:30",
+      "title": "Dockerize Your .NET Development Environment",
+      "body": "<p>It works on my machine. We've all heard it. Most of us have said it. It's been impossible to get around it� until now. Not only can Docker-izing your .NET development environment solve that issue, but it can make it drop-dead simple to onboard new developers, keep a team working forward and allow everyone on the team use their desired tools! </p><p>I will show you how to get Docker set up to use as the run environment for your .NET projects, how to maintain the docker environment, and even how easy it will be to deploy the whole environment to production in a way that you are actually developing in an environment that isn't just 'like' production. It IS the production environment! </p><p>You will learn the basics of Docker, how to use it to develop and how deploy your 'development' environment as the production environment!</p>",
+      "room": "30th Street",
+      "speaker": "Lee Brandt",
+      "badge": "MVP"
+    },
+    {
+      "date": "2017-02-25T11:30:59",
+      "time": "11:30",
+      "title": "CI/CD with VSTS and Azure",
+      "body": "<p>DevOps' focus on the uninterrupted flow of value to customers has made Continuous Integration and Continuous Delivery household terms.  However, to have a constant flow of value, organizations must shift their notions of deployments from an overly bureaucratic manual process to an automated process with little human intervention.  How can release managers have faith in an automated process that removes much of the manual overhead of traditional release flows?</p><p>This session will cover the tools available in VSTS and Azure that allows organizations to release continuously with confidence.  We will cover how automated testing can be used for builds and release pipelines, how environments can be auto-generated or refreshed to a known state automatically and how applications can be monitored using features built into Azure.  And in case you are wondering, what is DevOps and how does it fit into the whole application lifecycle.</p>",
+      "room": "MPR III",
+      "speaker": "Brian Minisi",
+      "badge": "MVP"
+    },
+    {
+      "date": "2017-02-25T10:00:59",
+      "time": "10:00",
+      "title": "Build Native Mobile Apps using JavaScript and Ionic",
+      "body": "<p>Ionic lets you build mobile apps using only JavaScript. The Ionic framework is a free and open source library of mobile-optimized HTML, CSS and JS components along with tools for building highly interactive native and progressive web apps. Built with Sass, optimized for AngularJS.</p><p>In this session, you will see how you can build rich powerful, robust, mobile applications that are clean simple and functional. These applications can use Cordova, PhoneGap to deploy natively or be a modern day web application.</p><p>All you need for this session is to know are HTML, CSS, and JavaScript: the building blocks of the web. You'll even learn AngularJS as you work with Ionic and this talk.</p>",
+      "room": "Wynnewood",
+      "speaker": "Joseph Guadagno",
+      "badge": "MVP"
+    },
+    {
+      "date": "2017-02-25T15:00:59",
+      "time": "15:00",
+      "title": "Build Native Mobile Apps using JavaScript and React",
+      "body": "<p>React Native lets you build mobile apps using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI from declarative components.</p><p>With React Native, you don't build a 'mobile web app', an 'HTML5 app', or a 'hybrid app'. You build a real mobile app that's indistinguishable from an app built using Objective-C or Java. React Native uses the same fundamental UI building blocks as regular iOS and Android apps. You just put those building blocks together using JavaScript and React.</p>",
+      "room": "Wynnewood",
+      "speaker": "Joseph Guadagno",
+      "badge": "MVP"
+    },
+    {
+      "date": "2017-02-25T15:00:59",
+      "time": "15:00",
+      "title": "Windows 10 IoT - Hands-on Lab using Raspberry Pi 3",
+      "body": "<p>Windows 10 IoT Hands-On Lab using Raspberry Pi 3</p>\n<p>1) Introduction<br />\n2) Setup Raspberry Pi 3 and Windows 10 development environment<br />\n3) Lab Examples - I/O and Interfacing to Sensors<br />\n4) Connecting with Cloud.</p>\n",
+      "room": "Berwyn",
+      "speaker": "Yash Chabria",
+      "badge": ""
+    },
+    {
+      "date": "2017-02-25T08:30:41",
+      "time": "08:30",
+      "title": "Entity Framework performance monitoring and tuning",
+      "body": "<p>Object Relational Mapping technologies, including the Entity Framework can drastically simplify the programming model against databases, but when done carelessly, performance can suffer. In this session, we'll explore some real-life strategies that have solved performance issues in production applications that I have encountered at a variety of customers. We'll discuss the pros and cons of working without stored procs and cover strategies for monitoring and tuning your entity queries.</p>\n",
+      "room": "MPR III",
+      "speaker": "Jim Wooley",
+      "badge": "MVP"
+    },
+    {
+      "date": "2017-02-25T08:30:40",
+      "time": "08:30",
+      "title": "How to make a YouTube Video",
+      "body": "<p>You've struggled and you finally have mastered a skill. You'd like to show the world how to do it because you think it'll look good on interviews. You see that other Developers have vlogs. How do they do it?</p>\n<p>Well, look no more.</p>\n<p>This class will cover<br />\n* What hardware and software you need<br />\n* How to Create the Video including (Cutting/Pasting/Moving clips, Blurring out sections, How to be more interesting,Lighting and camera presentation, Sound)<br />\n* Your YouTube Account including (Uploading videos, creating playlists, creating accounts, account creator club)</p>\n",
+      "room": "Berwyn",
+      "speaker": "Christine Murphy"
+    },
+    {
+      "date": "2017-02-25T13:30:09",
+      "time": "13:30",
+      "title": "The State of Data Today: A Developer's Nightmare",
+      "body": "<p>Data today is more decentralized than ever. Businesses store critical organizational data across a wide array of disparate systems. With the average company running upwards of 20+ SaaS applications, and at least as many on-premises databases and internal apps, it's impossible to build, manage, and maintain connectivity with each. So, how do you solve the data connectivity problem? The Answer: Data Abstraction. By leveraging common standards-based data interfaces like ADO.NET, ODBC, and OData, you can eliminate need for custom integration and its associated expense.</p><p>Learn about the benefits of using standards-based interfaces to access your data, no matter where it is. Do you have data in Salesforce.com? Are you also using QuickBooks? And HubSpot? And you have data stored in a MongoDB database? Use a standards-based data abstraction layer to connect, combine, pipeline, and transform data, regardless of original API or data source.</p><p>In this talk we'll explore a sample company's data, expose the vast number of integrations required to work with that data, and see the benefits of using common interfaces like ADO.NET, and OData for standardizing data access between sources.</p>\n",
+      "room": "Wynnewood",
+      "speaker": "Jerod Johnson"
+    },
+    {
+      "date": "2017-02-25T10:00:09",
+      "time": "10:00",
+      "title": "Continuing with the SharePoint Framework",
+      "body": "<p>The SharePoint Framework continues in preview, but has a few updates since our introduction in October.  We will start with a quick overview of the SharePoint Framework (SPFx) and what can you do with it.  We will discuss the frameworks, packages, tools, APis, and any updates that have been added recently and demo as many as possible.</p>",
+      "room": "Strafford",
+      "speaker": "Jennifer Kenderdine"
+    },
+    {
+      "date": "2017-02-25T08:30:09",
+      "time": "08:30",
+      "title": "How to Monitor Your NuGet Packages",
+      "body": "<p>Many places monitor the server that hosts their NuGet packages, but do you monitor what actually goes into your NuGet server? In this session, I'll show you how to leverage NuGet.Core package to scan your NuGet server. We'll take a look at how to check for crucial things like authors/owners, descriptions and project URLs are filled out correctly. In addition, I'll show you how to generate a DGML diagram that shows the dependency graph for your NuGet packages. Then we'll top it off with how to export the information into a nice report that can be distributed for all to see.</p>\n",
+      "room": "EBC",
+      "speaker": "TJ Cappelletti"
+    },
+    {
+      "date": "2017-02-25T15:00:04",
+      "time": "15:00",
+      "title": "ASP.NET Core AMA",
+      "body": "<p>Have you started development with ASP.NET Core?  Are you wondering how to get started, and need some questions answered about how to use the frameworks?  In this �Ask Me Anything' format session, now's your chance to ask one of the project managers for ASP.NET anything you want to see demoed or answered in an any question goes format.  Bring your questions, and they will get answered by one of the team members who is working on ASP.NET</p>\n",
+      "room": "MPR II",
+      "speaker": "Jeffrey Fritz",
+      "badge": "MS"
+    },
+    {
+      "date": "2017-02-25T15:00:02",
+      "time": "15:00",
+      "title": "Code Reviews",
+      "body": "<p>One thing that not all companies do, but all *should* be doing is Code Review. In this talk about Code Reviews in depth. We will cover the benefits and costs. We will cover the process and how to do it well. We will talk about the pain points and how to avoid them.</p>\n",
+      "room": "30th Street",
+      "speaker": "Travis Laborde"
+    },
+    {
+      "date": "2017-02-25T13:30:58",
+      "time": "13:30",
+      "title": "Improving Your Dev Process with Package Managers",
+      "body": "<p>Are you tired of manual installs and updates? Have you run into problems caused by incompatible libraries? Do you need to notify your colleagues for every single new release of your library? If the answer is YES, then consider about package managers. A package manager is a collection of software tools that automates the process of installing, upgrading, configuring, and removing computer programs for a computer's operating system in a consistent manner. A package manager deals with packages, distributions of software and data in archive files. Packages contain metadata, such as the software's name, description of its purpose, version number, vendor, checksum, and a list of dependencies necessary for the software to run properly. Upon installation, metadata is stored in a local package database. Package managers typically maintain a database of software dependencies and version information to prevent software mismatches and missing prerequisites. This session will give you a brief overview of some common used package managers.</p>\n",
+      "room": "EBC",
+      "speaker": "Henry He",
+      "badge": ""
+    },
+    {
+      "date": "2017-02-25T15:00:57",
+      "time": "15:00",
+      "title": "Observables with RxJS5: Using reactive programming to model async behavior",
+      "body": "<p>Writing asynchronous code is hard. Observables are here to simplify our asynchronous workflow by allowing us to to model our asynchronous events as collections. We'll be taking an introductory look at the RxJS library and look into some common asynchronous workflows and simplify these by using Observables.</p>\n",
+      "room": "Malvern",
+      "speaker": "Sam Elliott De La Torre Baba"
+    },
+    {
+      "date": "2017-02-25T13:30:48",
+      "time": "13:30",
+      "title": "NancyFx for a Simpler Web",
+      "body": "<p>Nancy is a lightweight, built to run anywhere, low-ceremony, open source framework for building HTTP based services on .Net and Mono. The goal of the framework is to stay out of the way as much as possible and provide a super-duper-happy-path to all interactions. Nancy is completely self contained and allows you to go from zero to website in a matter of minutes. Literally. While you're free to use the MVC pattern, it's not a requirement.</p>\n<p>We'll start this talk off with a gentle introduction to this stupid-simple web framework, and follow up with a choose-your-own-adventure style followup of examples.</p>\n",
+      "room": "MPR II",
+      "speaker": "Stachu Korick",
+      "badge": ""
+    },
+    {
+      "date": "2017-02-25T11:30:43",
+      "time": "11:30",
+      "title": "Cross-Platform Mobile and Desktop Application Development with Cordova and Electron",
+      "body": "<p>HTML5 has become a very popular platform for building cross platform applications. The speed and maturity of JavaScript frameworks and run-times has allowed complex applications to be written for mobile devices using a single codebase, but they are sandboxed in the browser. Tools like Cordova allow you to get past the sandbox and interact with the device hardware in ways that the browser on it's own cannot do. Electron does the same thing for building cross platform desktop applications. In this session we'll look at both and how you can build a single application code base that can be deployed to both mobile devices and desktops.</p>\n",
+      "room": "Wynnewood",
+      "speaker": "Dane Morgridge",
+      "badge": ""
+    },
+    {
+      "date": "2017-02-25T10:00:31",
+      "time": "10:00",
+      "title": "Data Visualization and Reporting in R",
+      "body": "<p>R is growing to be the standard for advanced data analytics. It provides great flexibility for analytic visualizations and reporting. This session will demonstrate how to get started with data visualization in R and some of the approaches and packages to use. (Included will be how to use R with Power BI.) We will also give a quick guide on which visualizations to use and when.</p>\n<p>This session will be heavy on demonstrations.</p>\n",
+      "room": "Paoli",
+      "speaker": "Dan Hartshorn",
+      "badge": ""
+    },
+    {
+      "date": "2017-02-25T13:30:26",
+      "time": "13:30",
+      "title": "SharePoint and Azure - How to Jump Start SharePoint Development Fast and Easy with Cloud Power!",
+      "body": "<p>This presentation shows how to use Azure Virtual Machines for hosting a SharePoint 2013 and 2016 farm in the cloud! We will demo how to get started with Azure using Dev Essentials, a free offering from Microsoft for developers to get started with developing on Azure, and we'll show several ways to get a SharePoint farm up and running using the SharePoint farm wizard in Azure. Once we have our SharePoint 2013 farm up and running, we will demo adding an Azure based virtual machine to our SharePoint 2013 farm, and then install SharePoint 2016 on it, to give us both a SharePoint 2013 and 2016 farm in the cloud!</p>\n",
+      "room": "Strafford",
+      "speaker": "David Patrick",
+      "badge": ""
+    },
+    {
+      "date": "2017-02-25T15:00:20",
+      "time": "15:00",
+      "title": "Audience Choose",
+      "body": "<p>This session is audience-driven, where the audience can select the topics that they are most interested in from five categories:<br />\n1.SQL Development<br />\n2.Performance Tuning Optimization<br />\n3.Advanced SQL Server technologies<br />\n4.Design and Architecture<br />\n5.SQL Server Latest technologies<br />\nThere are more than 40 topics listed to choose from. Depending on the selection, between 1 and 6 topics can be covered in the session.</p>\n",
+      "room": "Paoli",
+      "speaker": "Alex Grinberg"
+    },
+    {
+      "date": "2017-02-25T13:30:14",
+      "time": "13:30",
+      "title": "An Afternoon with Angular 2 (Part 2)",
+      "body": "<p>AngularJS is an open source JavaScript-based framework used for building front-end web applications.  This is the second part of a two-part session on Angular 2 development.  Topics covered in the second part will include routing, directives, pipes and filters, Angular 2 services and the HTTP Service.  The final part of the session will demonstrate how to wire the application up to a live database/collection hosted in Firebase</p>\n",
+      "room": "Malvern",
+      "speaker": "Mike Melusky"
+    },
+    {
+      "date": "2017-02-25T13:30:10",
+      "time": "13:30",
+      "title": "Understanding Azure Data Factory",
+      "body": "<p>Whether it is enterprise, government, or science and research, big data and analytics projects require processing large volumes of data. Data ingestion, movement, and transformation operations consume significant time and resources. This is exacerbated by the fact that in today's rapidly shifting ecosystem, data comes from a wide variety of sources: structured and unstructured, logs, streaming data, and more. Azure Data Factory (ADF) is an Azure service that allows you to create pipelines for automatically ingesting, moving, and processing large volumes of data. In this session, you will learn the basics of ADF, how to create and schedule pipelines, process data from various sources, and how to create custom activities with C#.</p>\n",
+      "room": "Merion",
+      "speaker": "Joel Cochran",
+      "badge": "MS"
+    },
+    {
+      "date": "2017-02-25T11:30:04",
+      "time": "11:30",
+      "title": "Refactoring to Patterns",
+      "body": "<p>A deep dive into using design patterns in the real world. Design patterns and the SOLID design principles are great tools developers can use to improve the quality of their code. Unfortunately, applying the wrong pattern can be just as bad as not using any patterns at all or add unnecessary complexity when a simpler solution works 'good' enough. Come learn and explore how to apply design patterns in the real world and answer the mythical question of what is the decorator pattern and why would I ever use it!</p>\n",
+      "room": "30th Street",
+      "speaker": "Todd Snyder"
+    },
+    {
+      "date": "2017-02-25T11:30:54",
+      "time": "11:30",
+      "title": "An Afternoon with Angular 2 (Part 1)",
+      "body": "<p>AngularJS is an open source JavaScript-based framework used for building front-end web applications.  This two-part session will go over the key pieces of Angular 2 in detail, leading up to a functional application which will be built throughout the course of the sessions.  Topics covered in the first part will include the Angular CLI, an introduction to TypeScript, the Angular component model, data binding (both property/event binding and also two-way binding) and custom property/event bindings used for communication between Angular components.</p>\n",
+      "room": "Malvern",
+      "speaker": "Mike Melusky"
+    },
+    {
+      "date": "2017-02-25T11:30:51",
+      "time": "11:30",
+      "title": "Build a Skill with the Alexa Skills Kit",
+      "body": "<p>The Amazon Echo, Alexa-based devices, and Works with Alexa were THE story of CES 2017. The Echo is a seasoned digital assistant and the Dot provides a low barrier for entry at only $50. Being able to develop Alexa Skills is a nice value-add to your repertoire of tech kills. Get a good understanding of how to do this in 75 minutes!</p>\n<p>It is still a great time to learn how to create an Alexa skill and get millions of people to interact with it. By using Amazon's ecosystem and Node.js we will build an Alexa Skill that can be hosted in the cloud and available to all Alexa devices (Echo, Tap, Dot, Fire TV, and a host of other devices embedding the Alexa Voice Services).</p>\n<p>This session will cover an introduction to the Alexa Skills Kit and development environment for building skills. We will use that knowledge to build a working skill and experiment with it during the session.</p>\n",
+      "room": "Berwyn",
+      "speaker": "Rick Wargo"
+    },
+    {
+      "date": "2017-02-25T11:30:35",
+      "time": "11:30",
+      "title": "ASP.NET Core Deep Dive",
+      "body": "<p>ASP.NET Core is here, and we can easily get started with Visual Studio� but what's next? In this deep dive session with one of the ASP.NET Program Managers, we'll explore building APIs, managing configuration of our application, the structure and use of middleware in ASP.NET Core, and how to create a microservice that's ready for deployment in a container.</p>\n",
+      "room": "MPR II",
+      "speaker": "Jeffrey Fritz",
+      "badge": "MS"
+    },
+    {
+      "date": "2017-02-25T13:30:35",
+      "time": "13:30",
+      "title": "DevOps Yourself: Fast-Track Your Windows Development Environment Setup",
+      "body": "<p>It's crunch time. The 11th hour. You and your team members are feverishly coding - wait, hmm, that's a weird error</p>\n<p>Even if you don't have a catastrophic unexpected loss, at some point you'll be going through the reload-all-the-things exercise. And, for some developers, rebuilding your development environment is a multi-hour ordeal of installing software, coupled with days of configuration, tweaking, and fixing. If you're currently browsing, downloading, and manually clicking through installer after installer while dodging unwanted toolbars - there's a better way!</p>\n<p>We'll explore ideas and techniques for keeping your software and configuration continuously updated and rebuildable. With this, it'll be a joy to upgrade your machine.</p>\n",
+      "room": "MPR III",
+      "speaker": "Ken Dale",
+      "badge": "MVP"
+    },
+    {
+      "date": "2017-02-25T10:00:33",
+      "time": "10:00",
+      "title": "Angular, ASP.NET Core, and VS Code - Oh My!",
+      "body": "<p>Wow - so many new things to learn for the traditional ASP.NET Web Developer! Angular is about to reach version 4 in March. ASP.NET Core is a new framework where the SDK is still undergoing major changes. And Visual Studio Code is a major departure from the comforts of Visual Studio with its own advantages and quirks. There are great resources that teach the fundamentals of each of these frameworks in isolation. But how do you put them together? This talk takes a look at what's going on with each of these technologies and gives you a roadmap for navigating the complexity of integrating them. You'll gain a better understanding of where the boundary is between the client and server in applications using Angular and ASP.NET Core. You'll also learn how to use the best of ASP.NET Core and Angular tooling in Visual Studio Code. There will be a lot to cover so strap in for a fun and educational ride.</p>\n",
+      "room": "MPR II",
+      "speaker": "Aaron Marisi"
+    },
+    {
+      "date": "2017-02-25T10:00:30",
+      "time": "10:00",
+      "title": "Optimizing Team Efficiency with Visual Studio and TFS",
+      "body": "<p>Software development is not easy. Managing projects and a team of developers is not easy. Visual Studio, Visual Studio Code, Team Foundation Server, and Visual Studio Team Services can help you optimize your development team efficiency, even if you don't work exclusively on the Microsoft stack.</p>\n<p>This session will give an overview of features in each product while focusing on those related to increasing your development team's efficiency. From project planning, to inline enhancements from CodeLens, this session will show developers, team leads, and project managers how they technologies work together to greatly increase team efficiency and reduce wasted time. Rarely do you find a session that attracts both developers and Project Managers, but this is it! Developers come and see all the new enhancements for Visual Studio and bring your Project Managers to show them how it will increase productivity. Project Managers come see the enhancements for project management and application lifecycle management and bring your developers to show them why they need to update burn down charts!</p>\n",
+      "room": "EBC",
+      "speaker": "Tim Ferro",
+      "badge": "MVP"
+    },
+    {
+      "date": "2017-02-25T13:30:25",
+      "time": "13:30",
+      "title": "Practical Machine Learning using Apache Spark and Big-Data",
+      "body": "<p>Machine learning based intelligent, predictive and smart systems are now part of every application domain and provide a major competitive advantage for many organizations. This session will introduce the Machine Learning in the field of software engineering and discuss various aspects of machine learning driven application development. I will cover the basics of supervised and unsupervised machine learning along with discussing its practical usage in the software industry. I will also introduce and use Apache Spark as distributed processing framework and it's machine learning library (MLlib) to design and develop a practical application using machine learning algorithms during this session. Apache Spark is a big-data computing framework which is essential for any industry scale machine learning application that manages big data. No prior knowledge of machine learning or Apache Spark is required to attend this session.</p>\n",
+      "room": "Paoli",
+      "speaker": "Joy Chakraborty"
+    },
+    {
+      "date": "2017-02-25T10:00:25",
+      "time": "10:00",
+      "title": "Real World Lessons in Progressive Web Application/Service Worker Caching",
+      "body": "<p>Over the past year we have seen a lot of excitement around Progressive Web Applications. Browser evangelist are selling developers and business owners on their advantages and promising future. But what is the real story? What are the details to proper execution? What do engineers need to know to make their web sites into Progressive Web Applications that not only meet the minimum criteria, but meet the sales hype?</p>\n<p>Searching the Pokedex offline is fun, what is the real experience like caching a business application? Caching application assets and data can be complex, especially for larger applications. What to cache, how long to cache and how to cache are all valid questions. Often, in an effort to just ship something, we cache nothing. When we don't cache, we disappoint the customer and miss a key promise of progressive web applications.</p>\n<p>In this session we will cover real details about caching reality based on real world experience in bringing Progressive Web Applications to market. This is not a session to sell the concept, but a session to highlight caching nuances you don't see until you sit down to write the code.</p>\n<p>Sure the Chrome engineers know the node modules, sw-precache &#038; sw-toolbox, they developed. But what happens when you, the general developer uses them? How do you use the sw-precache and sw-toolbox modules to craft a caching strategy for your application? How do you even determine what to cache? How can you get yourself in trouble? And more importantly, how can you get out of trouble and prevent hours or days of frustration?</p>\n",
+      "room": "Malvern",
+      "speaker": "Chris Love",
+      "badge": "MVP"
+    },
+    {
+      "date": "2017-02-25T15:00:13",
+      "time": "15:00",
+      "title": "Leveraging 'UNIX Tools' (GNU) for Data Analysis",
+      "body": "<p>Life would be so much easier if everything was in a database or pulled via API. But that is not the case. All too often we get data files (or have to send them) in various formats. This session discusses some of the tools available to help you figure out what the file looks like so you can pull it apart using those tools or your tool-of-preference. While the GNU version of these tools will be the focus, the skills learned apply to many different platforms (Microsoft's Bash under Windows 10, Cygwin under Microsoft Windows, MAC OSX, the Linux core of Android, commercial Linux � like Red Hat Enterprise, and commercial UNIX � like IBM's AIX or Sun/Oracle's Solaris).</p>\n<p>Of particular interest are �head', �tail', �wc', �awk', �dd conv', and shells.</p>\n<p>A few of the differences between UNIX/Linux and Windows will also be discussed in case you ever have to deal with those environments in our heterogeneous environments. This knowledge also comes in handy if you need to migrate code from an existing UNIX/Linux-based application.</p>\n",
+      "slug": "leveraging-unix-tools-gnu-for-data-analysis-3",
+      "room": "EBC",
+      "speaker": "David Horvath"
+    },
+    {
+      "date": "2017-02-25T15:00:11",
+      "time": "15:00",
+      "title": "Getting started with Entity Framework Core",
+      "body": "<p>With the cross-platform version of .Net, Microsoft has had to rewrite many of the core components that we have come to depend on. If you include data in your applications, chances are you have used Entity Framework in the past. In this session, you'll learn how to get started using EF Core and how to handle the changes in this version.</p>\n",
+      "room": "MPR III",
+      "speaker": "Jim Wooley",
+      "badge": "MVP"
+    },
+    {
+      "date": "2017-02-25T11:30:10",
+      "time": "11:30",
+      "title": "Conversation as a Platform - Skills, Bots and Intelligence",
+      "body": "<p>Devices no longer require a keyboard and mouse as mechanism of interaction. The ability to speak and be understood is becoming more mainstream with consumer devices providing this capability on first phones and more recently various devices in our homes. Developing applications to hook into these new ubiquitous appliances is possible with frameworks and services to turn words into actions. This session will show how to use Cortana Skills, Bot Framework and Cognitive Services to add conversation to your solution.</p>\n",
+      "room": "Merion",
+      "speaker": "Rich Ross",
+      "badge": "MS"
+    },
+    {
+      "date": "2017-02-25T11:30:55",
+      "time": "11:30",
+      "title": "Migrating a Disk-based Table to a Memory-optimized Table",
+      "body": "<p>In-Memory OLTP table was first introduced in SQL Server 2014. However, a massive number of limitations makes In-Memory OLTP table usage practically impossible. In SQL Server 2016 many of those limitations were eliminated which made it possible to start implementing In-Memory OLTP table in the database. The session 'Migrating a Disk-based Table to a Memory-optimized Table' will cover the process of migrating the disk tables to In-Memory OLTP table. This process is not straight forward and requires analysis before making a final decision for migration. However, the benefits of In-Memory OLTP table is worth the effort. If you are looking to improve transaction speed and reduce blocking for your server, the In-Memory OLTP tables is an excellent way to accomplish this task.</p>\n",
+      "room": "Paoli",
+      "speaker": "Alex Grinberg"
+    },
+    {
+      "date": "2017-02-25T10:00:40",
+      "time": "10:00",
+      "title": "Containing the Madness - Getting Started with Docker",
+      "body": "<p>Windows Server 2016 and Windows 10 (starting with Anniversary Edition) feature containers built into their operating systems. In this session you'll learn how to get started with Docker. You'll also learn about Windows Containers, use cases for containers in your development pipeline, and practices to help you get the most out of Docker moving forward.</p>\n",
+      "room": "30th Street",
+      "speaker": "Jason van Brackel"
+    },
+    {
+      "date": "2017-02-25T10:00:40",
+      "time": "10:00",
+      "title": "What's New In C# 7",
+      "body": "<p>It's never been a more exciting time to be a C# developer, as the language has shifted from being a proprietary Microsoft technology to an open source project with a modern compiler service which makes it easier to add new features. C# 7 builds on this framework to bring us new syntax for working with data structures in a more functional-like and friction-less way, allowing us to reduce our boiler plate code and more clearly express our intent.</p>\n<p>In this session, you'll learn the new C# 7 syntax through code demos and see how the new features such as tuples and pattern matching can help simplify common coding scenarios.</p>\n",
+      "room": "MPR I",
+      "speaker": "Scott Kay"
+    },
+    {
+      "date": "2017-02-25T11:30:27",
+      "time": "11:30",
+      "title": "Stress Free Deployments with Octopus Deploy",
+      "body": "<p>Deployment can be a real headache but it doesn't have to be. You can and should make your life easier by automating your builds to reduce risk and stress. Octopus Deploy is a great tool and easy to use. In this demo, I'll get you up to speed so you can start using Octopus Deploy to deploy .Net Applications. We'll cover setting up Octopus, integrating with TFS (or other build servers), and deploying applications.</p>\n",
+      "room": "EBC",
+      "speaker": "Andy Schwam",
+      "badge": "MVP"
+    },
+    {
+      "date": "2017-02-25T10:00:01",
+      "time": "10:00",
+      "title": "The Road to the White House Goes Through the Cloud",
+      "body": "<p>Today's Presidential campaigns have the technical sophistication of a modern enterprise, the constrained environment of a startup, and a relentless time frame. Political rhetoric may get air time, but data wins elections. Political operatives use data analytics to target communications, identify supporters, garner donations, organize field staff, drive voter turnout, and predict outcomes. In this session, Microsoft's Campaign Technology Services team will discuss: its role in the 2016 U.S. Presidential campaigns; the Iowa Caucuses and the party conventions; our customers' adoption of Machine Learning, various Azure data platform tools, and the broad implementation of Power BI visualizations.</p>\n",
+      "room": "Merion",
+      "speaker": "Joel Cochran",
+      "badge": "MS"
+    },
+    {
+      "date": "2017-02-25T08:30:57",
+      "time": "08:30",
+      "title": "An Introduction to F# and Functional Programming",
+      "body": "<p>F# is a growing multi-paradigm .NET language.</p>\n<p>In this talk, we'll briefly explore the language itself, followed by learning how to think functionally.' A basic understanding of C# and .NET is a prerequisite.</p>\n<p>After going over some motivation for looking into F#, we'll look deeper into functions, see a worked example, and finally explore a powerful functional architecture.</p>\n",
+      "room": "MPR I",
+      "speaker": "Stachu Korick"
+    },
+    {
+      "date": "2017-02-25T08:30:53",
+      "time": "08:30",
+      "title": "Zen and the Art of Programming",
+      "body": "<p>Although software development is taught as a STEM out of Science or Engineering schools, it is as much an art or craft a creative process as a science. This presentation focuses on innovative problem solving techniques the tools and techniques to use when your normal process just doesnt seem to get you to a solution. Much of the information in this talk is based on Robert Pirsigs Zen and the Art of Motorcycle Maintenance, which, although it is focusing on Motorcycles, applies to all kinds of problem spaces (and Pirsig was a tech writer for IBM). These techniques have served me well over the years. The difference in art versus science approaches is actually supported by the way the brain works.<br />\n* Traditional Problem Solving Methods, where they fall down<br />\n* Eastern techniques, advantages, disadvantages<br />\n* Tips<br />\n* Specific examples<br />\n* Brain versus Mind</p>\n",
+      "room": "30th Street",
+      "speaker": "David Horvath"
+    },
+    {
+      "date": "2017-02-25T11:30:48",
+      "time": "11:30",
+      "title": ".Net Complier Platform (Roslyn) and You",
+      "body": "<p>Over the last 7 years, the C# and VB compilers were re-written from the ground up. Visual Studio 2015 includes this new compiler and features new extensibility and language capabilities. In this session, we will focus on how these changes will impact you as a C# or VB developer in your day-to-day development. We'll start with exploring the new language features. We'll then look at how to take advantage of code diagnostics and fixes that are publically available. We'll end by exploring some of the extensibility points that you can take advantage of if you want to build your own diagnostics and code fixes.</p>\n",
+      "room": "MPR I",
+      "speaker": "Jim Wooley",
+      "badge": "MVP"
+    },
+    {
+      "date": "2017-02-25T10:00:40",
+      "time": "10:00",
+      "title": "Career Advice from the Trenches",
+      "body": "<p>We will discuss the softer side of being a developer, how people see your image, and what you can do to present a better image. We will be covering things for college students to new hires to grey beards. There will be no hugging in the session.</p>\n",
+      "room": "Berwyn",
+      "speaker": "Anthony Verguldi"
+    },
+    {
+      "date": "2017-02-25T11:30:36",
+      "time": "11:30",
+      "title": "Welcome to Dynamics (CRM)",
+      "body": "<p>MS Dynamics is more than just a CRM - it is an enterprise platform backed by Microsoft with more integrations every day. Come to this talk for an intro to the platform, architecture, environments, configuration, security, development options (C#, JS, WebAPI, etc), dev tools, integrations (such as PowerBI, Flow, etc) and limitations that you might run into working with Dynamics.</p>\n<p>Trials of MS Dynamics are free for 30 days - sign up for your own account and we can work together on a few sample exercises.</p>\n",
+      "room": "Strafford",
+      "speaker": "Shaw Levin"
+    },
+    {
+      "date": "2017-02-25T08:30:34",
+      "time": "08:30",
+      "title": "Visualize your Data, Any Way, Anywhere with Power BI",
+      "body": "<p>This session is designed to introduce you to the Power BI tool and architecture, it's capabilities, and the typical use cases for the platform. After discussing the basics, we will dive into Power BI Embedded and learn how best to use it in your ASP.NET applications.</p>\n",
+      "room": "Paoli",
+      "speaker": "Heather Shapiro",
+      "badge": "MS"
+    },
+    {
+      "date": "2017-02-25T08:30:26",
+      "time": "08:30",
+      "title": ".NET Standard for Mere Mortals",
+      "body": "<p>.NET Standard is a buzzword that Microsoft started using with the Build event in 2016. What is .NET Standard, and how does this framework effect how I'm building applications today? Come learn from one of the .NET team members about how .NET Standard makes writing code that works on any operating system with any project model a snap. You'll be able to build packages that work on your iPhone, web server, and docker containers when you finish this session.</p>\n",
+      "room": "MPR II",
+      "speaker": "Jeffrey Fritz",
+      "badge": "MS"
+    },
+    {
+      "date": "2017-02-25T08:30:25",
+      "time": "08:30",
+      "title": "Intro to Visual Web Parts",
+      "body": "<p>In SharePoint, Web Parts are an essential component of ASP.NET technologies used to present dynamic information to users and are arguably the most common customization created for SharePoint. In this presentation, we discuss and demonstrate how to build a web part using Visual Studio and its visual design tools. We'll create a visual web part and use LINQ to SharePoint to retrieve data from a SharePoint list to be displayed in our new visual web part. We'll then build and deploy our web part to a SharePoint site to see it in action! In SharePoint, Web Parts are an essential component of ASP.NET technologies used to present dynamic information to users and are arguably the most common customization created for SharePoint. In this presentation, we discuss and demonstrate how to build a web part using Visual Studio and its visual design tools. We'll create a visual web part and use LINQ to SharePoint to retrieve data from a SharePoint list to be displayed in our new visual web part. We'll then build and deploy our web part to a SharePoint site to see it in action! All along the way we will be using Azure Virtual Machines to host our SharePoint development farm in the Cloud, so you'll get an intro to Azure as well!</p>\n",
+      "room": "Strafford",
+      "speaker": "David Patrick"
+    },
+    {
+      "date": "2017-02-25T15:00:20",
+      "time": "15:00",
+      "title": "Combinatorial Development",
+      "body": "<p>While building a complicated custom ETL engine that migrated large chunks of a database from staging to production, I developed what I consider to be an interesting and very useful development methodology that led to a particularly correct piece of software. This way of development has to do with the following question and its answer: Question - How do you debug data you don't understand yet? The answer that I discovered combines some data analysis with the heart of an explorer and some outside-of-the-box debugging techniques as you develop, and essentially tries to implement a form of data code coverage so that we can relatively quickly trace through every unique combination of data types. And, yes, we will definitely look at some code, both C# and T-SQL. This methodology should be useful in any language, and will be more applicable the more complicated the data is. Also, this is not for just SQL or C#, but for any development platform having a decent debugger. Finally, this methodology can assist in catching those elusive intermittent bugs.</p>\n",
+      "room": "Strafford",
+      "speaker": "Stephen Adels"
+    },
+    {
+      "date": "2017-02-25T15:00:20",
+      "time": "15:00",
+      "title": "AR/VR Opportunities for Developers",
+      "body": "<p>Augmented reality, virtual reality, and mixed reality are the hottest technologies and present $180 billion market opportunity. This talk covers various AR/VR gadgets, market opportunities and industries using AR/VR. Talk will include various software tools and technologies to build software applications.</p>",
+      "room": "Merion",
+      "speaker": "Mahesh Chand",
+      "badge": "MVP"
+    },
+    {
+      "date": "2017-02-25T13:30:20",
+      "time": "13:30",
+      "title": "Build, Debug, and Deploy Hololens Apps",
+      "body": "<p>Microsoft's HoloLens is the first product that introduces holograms and mixed reality. This talk covers introduction to various components and demo of HoloLens device. Talk will also include sample HoloLens app development using UWP and Unity.</p>",
+      "room": "Berwyn",
+      "speaker": "Mahesh Chand",
+      "badge": "MVP"
+    },
+    {
+      "date": "2017-02-25T08:30:20",
+      "time": "08:30",
+      "title": "You talking to me? Building Bots with the Bot Framework for the enterprise and beyond",
+      "body": "<p>With the bot framework, we can connect intelligent bots to interact with your users naturally wherever they are � from your website or app to text/SMS, Skype, Slack, Facebook Messenger, Office 365 mail, or other popular services.</p><p>I�ll give you brief history of the natural language processing, how to create bots, and close with several code samples on how to put this all together.</p>",
+      "room": "Wynnewood",
+      "speaker": "David Voyles",
+      "badge": "MS"
+    },
+    {
+      "date": "2017-02-25T10:00:20",
+      "time": "10:00",
+      "title": "Exploring New feature in Visual studio 2017 RC",
+      "body": "<p>Visual Studio 2017 is the latest version of Microsoft's most popular and productive developer IDE. In this session, Amit will demonstrate new features of VS 2017 and how take advantages of these features to build and run code faster and better.</p>",
+      "room": "MPR III",
+      "speaker": "Amit Chaudhary",
+      "badge": "MVP"
+    },
+    {
+      "date": "2017-02-25T08:30:02",
+      "time": "08:30",
+      "title": "Drive Intelligence from Text in Smart Apps",
+      "body": "<p>The session covers how to use cognitive services to drive insights and intelligence in your applications. The session covers how to work with unstructured text and turn unstructured text into meaningful insights into mobile, web and line of business applications.</p><p>The session will be showing how to use a few lines of code to easily analyze sentiment, extract key phrases, detect topics, and detect language for any kind of text.</p><p>The session will provide an overview on Microsoft Cognitive Services and all related text analysis services including:</p><ul><li>Sentiment Analysis</li><li>Key Phrase extraction</li><li>Topic Detection</li><li>Language detection</li></ul><p>The session is code driven & will provide samples on how to build smart apps with cognitive services from Microsoft.</p>",
+      "room": "Merion",
+      "speaker": "Adnan Masood",
+      "badge": "MVP"
+    }
+  ],
+  "friday": [
+    {
+      "date": "2017-02-24T08:30:21",
+      "time": "08:30",
+      "title": "Hands-on Intro to ASP.NET Core Workshop",
+      "body": "<p>Bring your laptop and you will learn about ASP.NET Core directly from the team that built it in this high-powered workshop. ASP.NET Core is a lean and composable framework for building web and cloud applications. ASP.NET Core is fully open source and available on GitHub. What does that mean for ASP.NET Core compatibility? What powerful new cloud scenarios does ASP.NET Core enable? We'll cover ASP.NET Core both inside and outside the IDE, on Windows, Mac, and Linux.</p>",
+      "room": "Berwyn",
+      "speaker": "Jeffrey Fritz",
+      "badge": "MS",
+      "register": "register/fritz.html",
+      "full": true
+    },
+    {
+      "date": "2017-02-24T08:30:59",
+      "time": "08:30",
+      "title": "A Journey through C# - from C# 1 to 7",
+      "body": "<p>This all-day session will take you on a journey through all of the major language features of C#. Generics were incorporated into C# years ago - but do you feel like you have a firm grasp on the benefits on generics and how to write your own generic methods and types? What about how to write you own lambda expressions and extension methods with and without the context of LINQ? Do you feel confident you know how to effectively use async/await in C#? What about how to incorporate the dynamic keyword into real-world C# code? Have you seen Roslyn? Are you up-to-speed on all the new language features that were just introduced into C# 7.0? We will cover all these and more during this demo-heavy all-day session! Come sharpen up your C# skills!</p>",
+      "room": "30th Street",
+      "speaker": "Steve Michelotti",
+      "badge": "MS",
+      "register": "register/michelotti.html",
+      "full": true
+    },
+    {
+      "date": "2017-02-24T08:30:51",
+      "time": "08:30",
+      "title": "Day of Azure",
+      "body": "<p>Join a collection of local Microsoft employees and Partners as they present various features and important topics of the Azure Platform. List of topics we discuss in Azure will be driven by you, the audience. It is your chance to come and ask your questions or get deeper knowledge about a specific component of Azure We will end with a Q&#038;A panel where you can bring your Azure architecture and feature questions and have them answered by our panel of experts.</p>",
+      "room": "Envision",
+      "speaker": "Rich Ross",
+      "badge": "MS",
+      "register": "register/ross.html",
+      "full": true
+    },
+    {
+      "date": "2017-02-24T08:30:15",
+      "time": "08:30",
+      "title": "Master Git with GitHub and Visual Studio Team Services",
+      "body": "<p>Git is the distributed source control system that's barged into nearly every open source project and into corporate source control everywhere.  Now you find yourself having to understand Git, with it's arcane commands and strange outcomes that leave you wanting to throw away your work and start over time and again.</p>\n<p>This full day lab will teach you how Git works, so you can understand what is happening to your local repository and how to get back on track.  We'll discuss the two leading places where you might interact with Git repositories: GitHub and Visual Studio Team Services.</p>\n<p>* How Git Works<br />\n* Understanding the Commit Graph, Branches, and Tags<br />\n* 'Distributed' source control - facts and legends<br />\n* Hands on with tools you might prefer to the Command Line<br />\n* How will you REALLY use Git at work?<br />\n* Hands on With GitHub<br />\n* Hands on With Visual Studio Team Services (Git Source Repositories)</p>",
+      "room": "Strafford",
+      "speaker": "Chris Gomez",
+      "badge": "MVP",
+      "register": "register/gomez.html",
+      "full": true
+    },
+    {
+      "date": "2017-02-24T08:30:03",
+      "time": "08:30",
+      "title": "Build Web Sites Better Than The Facebook App",
+      "body": "<p>Do you want to build web sites that can compete with the best native apps?<br />\nYou may have an old web site that needs remodeling to give it new life, but you don't know how to start or if the web is even capable.<br />\nPerhaps you're wondering how to make your web site work offline and instantly load under any condition.<br />\nMaybe you want to get your apps in the Windows Store or gain access to Windows platform APIs.<br />\nWould you like to build a web site that your users want to add to their home screens and even get native push notifications?<br />\nYou have heard of service workers but don't know what they are or how to use them???</p>\n<p>You may be asking yourself all these questions or being asked by your clients and stakeholders. You want or need answers and how to execute them. You might even want to learn the latest best practices for building web sites. This is what Progressive Web Applications and service workers offer the modern web developer. Today's web is on par with native applications, yet most developers remain naive about new APIs and user experience features.</p>\n<p>This workshop is a structured introduction to the benefits of progressive web applications and how to build web applications that leverage the latest web technologies to create 'user experience magic.' Progressive web applications generously let you unobtrusively upgrade existing sites without a massive resource investment.</p>\n<p>Chris Love will guide you through a successful progressive web application project. After discussing the benefits of progressive web apps, along with selling points for your stubborn boss, you will dive into the technical details. You will learn how to implement the three key requirements of PWA: HTTPS, Web Manifest and a Service Worker. Then you will get intimate with the Fetch and Service Worker Cache APIs. You will also learn how to implement native push notifications, just like a native application.</p>\n<p>But wait, there is more!</p>\n<p>The workshop also covers how to build a reference e-commerce progressive web application - where you learn how to apply the concepts to your own work or personal web sites. In addition, you'll gain insight how to account for older browsers and platforms that have not yet implemented full support of progressive web applications.</p>\n<p>By the end of the day, you will have a firm foundation in the exciting world of progressive web applications and how they can enhance your business, engage your customers, increase work satisfaction, and improve your productivity.</p>\n<p>As a bonus attendees will receive full access to my upcoming online progressive web application course. This includes videos, slide decks, source code and workbook plus any future content refreshes. So your training will not end when the day is over.</p>",
+      "room": "MPR II",
+      "speaker": "Chris Love",
+      "badge": "MVP",
+      "register": "register/love.html",
+      "full": true
+    },
+    {
+      "date": "2017-02-24T08:30:56",
+      "time": "08:30",
+      "title": "End To End Development with Schwammy's Favorite Patterns and Practices",
+      "body": "<p>To create excellent software, you need to know a lot more than just the language basics. If you are an experienced developer looking to take things to the next level, this talk is for you. In this talk I'll present many patterns and practices that I use as a Technical Architect. I'll review and demonstrate many of my favorite patterns such as SOLID, Repository Pattern, Unit Of Work, Dependency Injection, etc. I'll show how these patterns can be used for both server and client side development in ASP.NET MVC. I'll demonstrate great ways to use TFS for automating your builds and deployments. During this full day session I will create a web application using VS2015, C#, ASP.NET MVC, Entity Framework, SQL Server, Bootstrap, Knockout.js and ELMAH. Unlike in traditional short talks, with the full day session you'll see how all the pieces fit together. As always, I'll throw in lots of tips and tricks along the way. FYI: this is a repeat (with some updates) from my popular full day session from the last Philly Code Camp. The session will not be hands-on for attendees however I'll provide the complete solution with which you can review and experiment.</p>",
+      "room": "MPR I",
+      "speaker": "Andy Schwam",
+      "badge": "MVP",
+      "register": "register/schwam.html",
+      "full": true
+    },
+    {
+      "date": "2017-02-24T08:30:57",
+      "time": "08:30",
+      "title": "Angular Lab",
+      "body": "<p>Angular 2 is the new version of the popular Google framework that builds on core Angular 1 principles like dependency injection, testability, data binding, and components. The syntax changes are considerable but make sense given new directions in modern web development. We start with a quick overview of Angular 1 and slowly migrate an application to Angular 2. Along the way we learn how W3C components are the modern building blocks that package templates, inputs, outputs, controller code, and even styles in reusable packages. We dive into reactive programming to see how RxJS and Observables expand on legacy JavaScript promises. We test some commercial components built on this foundation using Angular Material, grids, and charts to give the application a finished look. </p>\n<p>This lab is completely hands-on with data and frameworks provided on a USB drive. Demonstrations will use Visual Studio Code and TypeScript with Snippets and Angular CLI with NodeJS.</p>",
+      "room": "MPR III",
+      "speaker": "Bill Wolff",
+      "badge": "MVP",
+      "register": "register/wolff.html",
+      "full": true
+    },
+    {
+      "date": "2017-02-24T08:30:08",
+      "time": "08:30",
+      "title": "Contain your Enthusiasm",
+      "body": "<p>Docker in a Day, Hands-On!</p>\n<p>Windows Server 2016 and Windows 10 (starting with Anniversary Edition) feature containers built into their operating systems.  In this class we'll learn how to take advantage of this technology from development to production.  Featuring a combination of lecture, demo and hands-on exercise, we will have fun harnessing Docker, related tools, and clustering orchestration systems.  We will also setup Docker, and construct our first cluster.</p>\n<p>We will cover Docker Engine, Compose and Swarm.  We will also explore non-Docker orchestration options like (but not limited to) Mesosphere DC/OS and Kubernetes.</p>\n<p>A Wifi-capable laptop running Windows, Linux or Mac OSX is recommended for this class (I may bring a couple spares).  Exercises will be developed in an OS agnostic fashion.</p>",
+      "room": "EBC",
+      "speaker": "Jason van Brackel",
+      "badge": "",
+      "register": "register/vanbrackel.html",
+      "full": true
+    },
+    {
+      "date": "2017-02-24T08:30:28",
+      "time": "08:30",
+      "title": "Rev up in R - A One Day Introduction to R",
+      "body": "<p>R is growing to be the standard tool for Data Analytics. Microsoft has deeply embraced R and has included it as a component in SQL Server, Azure and Cortana. R is the standard language for Data Science. This session will provide an overview of R, its uses and how you can continue your learning. Bring your laptop and we will set up R with you.</p>\n<p>Key Topics include:</p>\n<p>Implementation - How is it implemented and what is required for its use. This includes a basic set up and larger scenarios.</p>\n<p>Data Wrangling - How do you get at data and structure it for your use.</p>\n<p>Statistical Analysis and Packages - How can you use the analytic features that are important to you. (We will also do a brief refresher on what statistics are and why they are important.)</p>\n<p>Introduction to Machine Learning - Machine Learning is currently a hot button topic. You will see some use cases and how R fits into them.</p>\n<p>Visualization and Reporting in R - One of the key features is the robust levels of visualizations included and how they can be customized for your use.</p>\n<p>Resources - Where to find additional info on R to continue your journey</p>",
+      "room": "Malvern",
+      "speaker": "Dan Hartshorn",
+      "badge": "",
+      "register": "register/hartshorn.html",
+      "full": true
+    },
+    {
+      "date": "2017-02-24T08:30:02",
+      "time": "08:30",
+      "title": "Drone Cars, they are not just for Tesla anymore",
+      "body": "<p>Have you ever wanted your own drone? Do you like cars? Then this all day session is the one for you. We will explore how one creates code that turns on lights, to sonar, to building a small drone car that not only you can drive yourself but one that drives itself too. By the end of today you will be able to turn a raspberry pi into the nervous system of your own personal drone.</p>\n<p>Please note this is a hands on lab and if you would like to participate you can purchase your own parts ahead of schedule to bring to this session.</p>",
+      "room": "Paoli",
+      "speaker": "Michael Luckenbill",
+      "badge": "",
+      "register": "register/luckenbill.html",
+      "full": true
+    }
+  ],
+  "sponsors": [
+    {
+      "label": "Microsoft",
+      "logo": "assets/image/microsoft.png",
+      "level": "platinum"
+    },
+    {
+      "label": "Infragistics",
+      "logo": "assets/image/infragistics.jpg",
+      "level": "platinum"
+    },
+    {
+      "label": "Twilio",
+      "logo": "assets/image/Twilio_logo_red.png",
+      "level": "platinum"
+    },
+    {
+      "label": "Apex Systems",
+      "logo": "assets/image/apex.png",
+      "level": "gold"
+    },
+    {
+      "label": "Assurant",
+      "logo": "assets/image/Assurant.jpg",
+      "level": "gold"
+    },
+    {
+      "label": "cData",
+      "logo": "assets/image/CDATA.png",
+      "level": "gold"
+    },
+    {
+      "label": "Cox Automotive",
+      "logo": "assets/image/Cox.jpg",
+      "level": "gold"
+    },
+    {
+      "label": "JetBrains",
+      "logo": "assets/image/jetbrains.png",
+      "level": "gold"
+    },
+    {
+      "label": "Lincoln Investment",
+      "logo": "assets/image/LincolnInvestment.png",
+      "level": "gold"
+    },
+    {
+      "label": "SofterWare",
+      "logo": "assets/image/softerWare.jpg",
+      "level": "gold"
+    },
+    {
+      "label": "Stratis",
+      "logo": "assets/image/Stratis.png",
+      "level": "gold"
+    },
+    {
+      "label": "TEKSystems",
+      "logo": "assets/image/TEKsystems.jpg",
+      "level": "gold"
+    },
+    {
+      "label": "TextControl",
+      "logo": "assets/image/textcontrol1.png",
+      "level": "gold"
+    },
+    {
+      "label": "Therapy Notes",
+      "logo": "assets/image/therapynotes.png",
+      "level": "gold"
+    },
+    {
+      "label": "C# Corner",
+      "logo": "assets/image/ccorner.png",
+      "level": "bronze"
+    },
+    {
+      "label": "Code Magazine",
+      "logo": "assets/image/CODEMagazine.png",
+      "level": "bronze"
+    },
+    {
+      "label": "Grape City",
+      "logo": "assets/image/grapecity.png",
+      "level": "bronze"
+    },
+    {
+      "label": "McKenzie Brew House",
+      "logo": "../assets/image/Mckenzie.jpg#",
+      "level": "bronze"
+    }
+  ],
+  "speakers": [
+    {
+      "speaker": "Joel Cochran",
+      "badge": "MS",
+      "picture": "../assets/image/joelcochran.jpg#",
+      "bio": "Joel Cochran is currently serving as a Technical Evangelist on the Microsoft Civic Technology Services team. Joel was born in Virginia, grew up in Iowa, and graduated from James Madison University in Harrisonburg, VA. After serving in the United States Army, he moved to Florida where he fell backwards into a job at a software company. Before long he was a software developer on the IBM AS/400 platform. After moving back to Virginia a few years later, he worked for a micro-ISV writing software for local governments. This period led him through a wide range of technologies such as RPG, DB2, Java, Perl, PHP, MySQL, Linux, and more. In 2003, Joel discovered C#, .NET, and SQL Server, and has been dedicated to the Microsoft stack ever since. Over the years he has ranged through a variety of web, desktop, and database development tools and environments. An accomplished writer and speaker, Joel loves to teach and was a 6-time Microsoft MVP prior to joining the company. He lives in Harrisonburg, VA, with his family, and is an avid pool player."
+    },
+    {
+      "speaker": "Jeffrey Fritz",
+      "badge": "MS",
+      "picture": "../assets/image/jefffritz.jpg#",
+      "bio": "Jeffrey T. Fritz is a senior program manager on Microsoft's Azure Development Experiences group. He is a long time web developer with experience in large and small applications across a variety of verticals. His first book, 'Learn <a href='http: //ASP.NET'>ASP.NET</a> 5 in 24 Hours' is complete and will be available in early 2016. You can also learn from Jeffrey on Pluralsight, follow him on twitter @csharpfritz, and read his blogs at <a href='http://jeffreyfritz.com'>jeffreyfritz.com</a> and <a href='http://blogs.msdn.com/b/webdev'>blogs.msdn.com/b/webdev</a>"
+    },
+    {
+      "speaker": "Steve Michelotti",
+      "badge": "MS",
+      "picture": "../assets/image/stevemichelotti.jpg#",
+      "bio": "Steve Michelotti is a Microsoft ASP.NET MVP and a contributing author for Pluralsight training. In addition, Steve is a frequent presenter at developer user groups, conferences, and Code Camps along the East Coast and holds the MCSD, MCPD, and MCT certifications. Steve is an avid blogger (http://stevemichelotti.com), has contributed articles to Visual Studio Magazine, and his work on high performance web solutions was featured on Channel 9. Currently he is serving as an Architect/Developer for Applied Information Sciences (AIS) where he has lead numerous projects including a multi-year effort to modernize the business systems of a major insurance carrier. Previously he was the Chief Technologist at e.magination where he consulted with clients including Advertising.com/AOL where he was the Tech Lead for one of the highest volume .NET applications in the world."
+    },
+    {
+      "speaker": "Rich Ross",
+      "badge": "MS",
+      "picture": "../assets/image/richross.jpg#",
+      "bio": "Rich Ross is a Technical Solutions Professional at the Microsoft Philadelphia MTC. He has more than 20 years of business and IT experience in the pharmaceutical and consulting industry. Rich has developed solutions for every version of SharePoint, from simple department portals to enterprise level applications. Over the last few years, he has focused on developing for the cloud using Azure technologies and is very interested in developing solutions containing IoT, Cortana and 3D Cameras features. Rich posts about technology on his blog at <a href='http: //richross.me/'>http://richross.me/</a> and you can follow him on twitter @rich_ross."
+    },
+    {
+      "speaker": "Heather Shapiro",
+      "badge": "MS",
+      "picture": "../assets/image/heathershapiro.jpg#",
+      "bio": "Heather Shapiro is a Technical Evangelist in Microsoft's Developer Experience group, where she educates developers on Microsoft's new technologies. In this role, Heather works closely with students and developer communities across the North East to understand the newest technologies and architectures. Prior to becoming a Technical Evangelist, Heather completed her undergraduate degree at Duke University and graduated in the Class of 2015. She received Bachelors of Science in Computer Science and Statistical Science, and completed an Honors Thesis about employing Bayesian Approaches to Understanding Music Popularity. Heather blogs at http://microheather.com and tweets at http://twitter.com/microheather."
+    },
+    {
+      "speaker": "David Voyles",
+      "badge": "MS",
+      "picture": "../assets/image/davidvoyles.jpg#"
+    },
+    {
+      "speaker": "Lee Brandt",
+      "badge": "MVP",
+      "picture": "../assets/image/leebrandt.jpg#",
+      "bio": "After almost two decades writing software professionally (and a few years unprofessionally before that), Lee Brandt still continues to learn every day. He has led teams in small and large companies and always manages to keep the business needs at the forefront of software development efforts. He speaks internationally about software development, from both a technical and business perspective, and loves to teach others what he learns. Lee writes software in Objective-C, JavaScript and C#� mostly. He is a Microsoft Most Valuable Professional in Visual C# and one of the directors of the Kansas City Developer Conference (KCDC). Lee is a decorated Gulf War veteran, a husband, a proud pet parent and loves to play the drums whenever he gets any spare time."
+    },
+    {
+      "speaker": "Mahesh Chand",
+      "badge": "MVP",
+      "picture": "../assets/image/maheshchand.jpg#",
+      "bio": "CEO Mindcracker Inc. is a Philadelphia based Web and Mobile App development company. Startup Advisor, Software Solutions Architect, Technical Author, 11-time Microsoft MVP and Founder of C# Corner (<a href='http: //www.c-sharpcorner.com'>www.c-sharpcorner.com</a>), one of the most popular online communities for Microsoft developers and programmers. Holding a Bachelor's degree in Mathematics and Physics and a Master's degree in Computer Science, Mahesh has written half a dozen books with publishers including Addison-Wesley and Apress."
+    },
+    {
+      "speaker": "Amit Chaudhary",
+      "badge": "MVP",
+      "picture": "../assets/image/AmitChaudhary.jpg",
+      "bio": "Amit is blogger, speaker, 4 times Microsoft MVP and 5 times C# Corner MVP. Amit has over 7 years of experience working on Microsoft technologies developing and designing solution for web and windows application. In his free time, he writes technical blogs and article."
+    },
+    {
+      "speaker": "Ken Dale",
+      "badge": "MVP",
+      "picture": "../assets/image/kendale.png#",
+      "bio": "Ken Dale is a software developer and Microsoft MVP with much of his current technology focus centered around the .NET web stack, JavaScript, and cloud technologies. Outside the realms of software, Ken is a musician who enjoys food eaten with chopsticks and travel."
+    },
+    {
+      "speaker": "Tim Ferro",
+      "badge": "MVP",
+      "picture": "../assets/image/timferro.png#",
+      "bio": "Tim Ferro is a Microsoft MVP, Principal Architect, and Senior Developer with a specialty in SharePoint for RDA Corp living in the Philadelphia, PA area. As a professional IT consultant for over the past eleven years, he has been working almost exclusively with SharePoint for the past eight. Branching out, he was a technical editor for 3 of the You Don't Know JS series of O'Reilly books, and is a certified Microsoft Specialist for Programming in HTML5 with JavaScript and CSS3. He is a 2x Microsoft MVP for Visual Studio and Development Technologies and a Microsoft Certified Technical Specialist in SharePoint 2010 for both Development and Configuration. These days he is working with Visual Studio 2017, SharePoint 2013, Office 365, .NET Core, and TypeScript. His sessions are pulled directly from real-world experience and implemented best practices at numerous clients. A frequent presenter at SharePoint Saturdays, code camps, user groups, and conferences he also likes to tweet, blog, code, and attend SharePints!"
+    },
+    {
+      "speaker": "Chris Gomez",
+      "badge": "MVP",
+      "picture": "../assets/image/chrisgomez.jpg#",
+      "bio": "Chris has been writing Windows software professionally for 19 years. His day jobs have included developing kiosks for theme parks and retail stores and building portfolio analytics for commercial lending. Today His hobby for game development started much earlier by making games using ASCII characters in text mode using BASICA. However, in his free time, you'll find Chris playing the latest games on his Xbox 360 or Windows Phone 7."
+    },
+    {
+      "speaker": "Joseph Guadagno",
+      "picture": "../assets/image/josephguagagno.png#",
+      "badge": "MVP",
+      "bio": "<p>For 20 years or so I have been in Software Development. During that time I have used many tools, languages, and technologies. I started out programming with a small book on QuickBASIC. I later moved on to Visual Basic for DOS. Windows then came along and I starting using Visual Basic for Windows, I then migrated to Visual Basic .NET and eventually ended up using Visual C#. I work as a Team Leader at Quicken Loans, based in Detroit, MI. I am a public speaker and present internationally on a lot of different technology topics, a list of them are available at http://www.josephguadagno.net/presentations/.  I have been recognized as a Microsoft MVP in .NET (since 2009) and a Friends of Red Gate program (since 2015).</p>"
+    },
+    {
+      "speaker": "Chris Love",
+      "badge": "MVP",
+      "picture": "../assets/image/chrislove.jpg",
+      "bio": "Chris Love is a front-end developer for people and companies who are lost in the sea of modern web and user experience standards. He has a quarter century of web development experience, and has built a wide variety of web sites and applications in those years. In recent years, he immersed himself in responsive web design, single-page web applications and web performance optimization.\r\n\r\nHe applies these interests to run a small web consulting company, Love2Dev, that focuses on user-first web applications that operate on all device classes and usage contexts. Love2Dev offers web development and analysis to help companies engage end users and operate more efficiently.\r\n\r\nChris authored 3 web development books including, High Performance Single Page Web Applications, http://amzn.to/1b0twcm. He is a Microsoft MVP, ASP Insider and Edge User Agent. Chris regularly speaks at user groups, code camps and developer conferences. He blogs at http://love2dev.com and is active on Twitter, @ChrisLove.\r\n\r\nThrough his blog, speaking and books, he's here to help you shake up your approach to web development while making it all feel like fun. His insights and opinions have been featured in various magazines, popular podcasts web sites. He has helped hundreds of businesses and individuals, ranging from mom and pop shops through major corporate brands, to build modern web experiences.\r\n\r\nWhen he's not working on front-end development, you can find him spending time with his step-kids, learning karate, training for Spartan races and serving on his church board of directors.\r\n\r\nYou can follow Chris' Blog at love2dev.com and on Twitter @ChrisLove."
+    },
+    {
+      "speaker": "Adnan Masood",
+      "badge": "MVP",
+      "picture": "../assets/image/adnanmasood.jpeg#",
+      "bio": "<p>Adnan Masood, Ph.D. is a software architect, machine learning researcher, and Microsoft MVP for Data Platform. Before joining UST Global as Chief Architect of AI and Machine Learning, Dr. Masood worked at Green Dot Corporation, a leading prepaid financial technology institution as a Sr. Systems Architect. In the past life he has also served as principal engineer for an ecommerce start-up, and as a solutions architect for a leading British nonprofit organization.</p><p>A strong believer in the development community, Adnan is an active member of the Open Web Application Security Project (OWASP), an organization dedicated to software security. In the .NET community, he is a cofounder and president of the Pasadena .NET Developers group, co-organizer of Tampa Bay Data Science Group, and Irvine Programmer meetup. A certified ScrumMaster, Dr. Masood also hold certifications in big data, machine learning, and systems architecture from Massachusetts Institute of Technology; Application Security certification from Stanford University, and SOA Smarts certification from Carnegie Mellon University. he is a Microsoft Certified Solutions Developer, and Sun Certified Java Developer.</p><p>Dr. Masood teaches Data Science course at Park University, and has taught Windows Communication Foundation (WCF) courses at the University of California, San Diego. He is a regular speaker to various academic and technology conferences (, IEEE-HST, IASA, and DevConnections), local code camps, and user groups. He is also a volunteer STEM FLL robotics coach for middle school students.</p><p>For more details, visit Adnan's blog (http://blog.adnanmasood.com), GitHub repository (http://github.com/adnanmasood), and Twitter (@adnanmasood). Adnan can be reached at adnan.masood@owasp.org.</p>"
+    },
+    {
+      "speaker": "Brian Minisi",
+      "badge": "MVP",
+      "picture": "../assets/image/brianminisi.png",
+      "bio": "Brian Minisi is a Sr. Architect and ALM Practice Lead for CEI.  A Microsoft MVP and ALM Ranger, Brian is a frequent speaker at code camps and user groups. He is a contributor to DevProConnections where he has written articles and produced eLearning sessions.  He has been working with Microsoft technologies since 1998 and has been working in .NET since 2001. He is passionate about architecture and all aspects of the application lifecycle."
+    },
+    {
+      "speaker": "Brent Schooley",
+      "badge": "MVP",
+      "picture": "../assets/image/brentschooley.png#",
+      "bio": "Brent is a Developer Evangelist for Twilio representing the Philadelphia metro. He is a software developer who has been working with Microsoft technologies since 2004. His interests include client and mobile application development and user experience design with a recent emphasis on cross-platform mobile applications and client-side JavaScript frameworks. Other platforms he has worked with include WPF, Silverlight, Windows Forms, Windows Phone, and Windows 8. Brent is the author of Designing for Windows 8, a Windows 8 design primer from Apress. He is a Microsoft MVP in Client App Development as well as a Xamarin MVP."
+    },
+    {
+      "speaker": "Andy Schwam",
+      "badge": "MVP",
+      "picture": "../assets/image/andyschwam.jpg",
+      "bio": "Andy Schwam is a Microsoft C# MVP and a Technical Architect at Global Indemnity where he builds web applications with ASP.Net MVC and of course, C#. For several years he's been designing and delivering testable systems with patterns like Dependency Injection, Single Responsibility and more. He has delivered many web based, data driven applications throughout his professional career. Andy is an experienced speaker and trainer and has spoken at a variety of user groups and events, presenting a variety of topics. He has been creating software applications since 1999."
+    },
+    {
+      "speaker": "Bill Wolff",
+      "badge": "MVP",
+      "picture": "../assets/image/billjwolff.jpg",
+      "bio": "Bill Wolff is an independent consultant, trainer, and architect specializing in Microsoft development technologies under the name Agility Systems. He served as the SharePoint Practice Director at Capax Global, Solutions Architect in the Microsoft Practice at Unisys Corporation, and ran the Microsoft Alliance at LiquidHub. He ran the consulting firm Wolff Data Systems for 15 years and directed armies of consultants in the dot com world. Bill is founder and President of the philly.NET user group, a previous INETA board member where he served as Vice President of the Speaker Bureau, and involved in several other user communities. Bill was a contributing author on several books. His certifications include trainer, systems engineer, developer, and Microsoft MVP."
+    },
+    {
+      "speaker": "Jim Wooley",
+      "badge": "MVP",
+      "picture": "../assets/image/jimwooley.jpg#",
+      "bio": "By day, Jim Wooley is a Solution Architect for Slalom Consulting, In his free time, Jim is a frequent speaker, MVP, and author of \"LINQ in Action\". He is always striving to stay at the forefront of technology and enjoys the thrill of a new challenge. He has been active evangelizing LINQ since its announcement in 2005. In addition, he attempts to pass on the insights he has gained by being active in the community, including organizing and speaking at code camps and regional events, including MIX, VS Live, CodeMash, KCDC, That Conference, DevWeek, and CodeStock."
+    },
+    {
+      "speaker": "Stephen Adels",
+      "picture": ""
+    },
+    {
+      "speaker": "Sam Elliott De La Torre Baba",
+      "picture": "",
+      "bio": "I am a Software Developer from Puerto Rico and obtained my BS in Computer Engineering in May 2015 from the University of Puerto Rico. I am currently working at Infragistics where I work on Report Plus for Web. A lot of my time is spent working around the front-end and playing with trendy JavaScript frameworks and libraries. I am active on Twitter (@SamElliott7C7) and you can keep up to date with what I'm up to on my personal site at samelliott.xyz."
+    },
+    {
+      "speaker": "Jason van Brackel",
+      "picture": "../assets/image/jasonvanbrackel.jpg#",
+      "bio": "Jason van Brackel is a Sr. Developer with the Client Services team at Apprenda, developing solutions for organizations using the Apprenda Platform."
+    },
+    {
+      "speaker": "TJ Cappelletti",
+      "picture": "",
+      "bio": "I've been a C#.NET developer since I graduated from college in 2006 and presently a lead DevOps engineer for HomeNet Automotive. I've always had a passion for DevOps even before it became a buzz word. Throughout my career, I've tried to bridge the gap between the developers, IT operations, and DBAs by either learning more about their world or building tools to bring the teams closer together. The last few years I've been focusing more on developing CI/CD pipelines for cloud and on premise projects. When I'm not busy being a DevOps engineer, you can find me teaching computer science part time at Montgomery County Community College. If you haven't guessed it yet, I have a passion for technology."
+    },
+    {
+      "speaker": "Yash Chabria",
+      "picture": "../assets/image/yashchabria2.png#",
+      "bio": "Yash  is an embedded system designer/developer, with  interest in embedded data science, Machine Learning, Embedded Computer Vision, Python and R."
+    },
+    {
+      "speaker": "Joy Chakraborty",
+      "picture": "../assets/image/joychakraborty.jpg#",
+      "bio": "Joy is a Distributed System Architect, 17+ yrs of Application Software development experience, 10+ yrs of .NET and C# development experience, 5+ yrs of work experience in ASP .NET web application scaling and performance improvement, 4+ yrs of WCF experience with a special interest in distributed/parallel computing, currently working on Cloud, Big Data and Machine Learning technologies for last 4+ years. Also, he is actively part of various Software architectural organization and active open source contributor on big-data projects."
+    },
+    {
+      "speaker": "Dan Gershony",
+      "picture": ""
+    },
+    {
+      "speaker": "Alex Grinberg",
+      "picture": "../assets/image/alexgrinberg.jpg#",
+      "bio": "Alex Grinberg is a certified MS SQL Server professional and has more than 20 years IT experience. He provides SQL Server tuning, optimization, analysis, development, and administration services: creating new applications, converting legacy technologies (SQL Server, VB.NET and C#) and on-site training. Alex is a senior DBA at Cox Automotive. He is a member of the Board of Directors for PSSUG (Philadelphia). Alex also frequently attends and presents at SQLSaturday events around the country, sharing his passion for all things SQL Server. Alex is a guest author for SQLServerCentral.com and also a technical reviewer for Apress."
+    },
+    {
+      "speaker": "Dan Hartshorn",
+      "picture": "../assets/image/danhartshorn.jpg#",
+      "bio": "Dan Hartshorn is Principal Consultant at Hartshorn Associates.  He is a leading BI, Data and SharePoint Enterprise Architect. Passionate advocate in using enterprise data as an asset to drive business results.\r\n \r\nBy training Dan is actually statistician and is a real numbers and data geek. \r\n \r\nHe is experienced in Azure, SQL Server, .Net, Web Development, Power BI, SharePoint, Office 365, Big Data, and major BI tools.   A recognized expert in SharePoint, SQL Server and Business Information design, development, deployment and governance. Specialties include Managing data as a corporate asset, SharePoint, development, Database Development, Data Warehousing, Business Information and Reporting, Big Data, Cloud Applications, Collaboration, Project and Program Management, Business Development, Corporate Performance Management, Organization Planning."
+    },
+    {
+      "speaker": "Henry He",
+      "picture": "../assets/image/henryhe.jpeg#",
+      "bio": "- Microsoft Certified Software Developer (MCSD) who has over 16 years of experience in design and developing software applications \r\n- Complete exposure to entire software development life cycle\r\n- Practitioner of Agile Development and certified Scrum master\r\n- Strong knowledge in OOA/OOD/OOP, TDD, DDD and Design Pattern\r\n- Extensive experience in Requirement Analysis, System Architecture, Software Design, User Interface Design, Coding, Testing, and Deployment \r\n- Excellent analytical and problem solving skills"
+    },
+    {
+      "speaker": "David Horvath",
+      "picture": "../assets/image/davidhorvath.jpg#",
+      "bio": "David is an IT Professional who has worked with various platforms since the 1980's with a variety of development and analysis tools. \r\nThis is not his first philly.net session and far from his first presentation - having presented workshops and seminars in Australia, France, the US, Canada, and Oxford England (about the British Author Nevil Shute).\r\n\r\nHis undergraduate is in Computer and Information Sciences from Temple University and holds a Masters is Organizational Dynamics from UPENN. He holds the Certified Computing Professional designation.\r\n\r\nMost of his career has been in consulting (although recently he has been in house) in the Philadelphia PA area. \r\n\r\nHe has several books to his credit (none directly Windows related) and is an Adjunct Instructor covering IT topics."
+    },
+    {
+      "speaker": "Jerod Johnson",
+      "picture": ""
+    },
+    {
+      "speaker": "Scott Kay",
+      "picture": "../assets/image/scottkay.jpg#",
+      "bio": "Scott Kay is a software engineer at eMoney Advisor working with a talented team of developers to continuously improve and optimize their application stack and server infrastructure. He has been involved with .NET since it's inception, first as a Microsoft Evangelist and continuing through his local developer community. Beyond .NET, he dabbles in the Go programming language and data/multimedia compression."
+    },
+    {
+      "speaker": "Jennifer Kenderdine",
+      "picture": "../assets/image/jenniferkennerdine.jpg#",
+      "bio": "Jennifer Kenderdine is a SharePoint Subject Matter Expert at Trellist Marketing|Technology. She has been a SharePoint professional since Jan 2007, working with MOSS 2007, SharePoint 2010, SharePoint 2013 and Office365. She is proficient at integrating business processes through InfoPath and Workflow and SharePoint administration. Over the last few years, she has expanded her experience to include client side development (XSLT, JavaScript, HTML) and design, which she uses to enhance the user experience with SharePoint."
+    },
+    {
+      "speaker": "Stachu Korick",
+      "picture": "../assets/image/stachukorick.jpg#",
+      "bio": "Stachu is a .NET hipster, focusing on the fringes of .NET in between taking steps back to see the big picture. Currently employed as a software developer at AcademyOne, he works in the domain of higher-education."
+    },
+    {
+      "speaker": "Travis Laborde",
+      "picture": "../assets/image/travislaborde.jpg#",
+      "bio": "Travis Laborde is a Senior Architect, Developer, and DBA specializing in ASP.NET and SQL Server. Travis is a successful trainer and mentor."
+    },
+    {
+      "speaker": "Shaw Levin",
+      "picture": "../assets/image/shawlevin.jpg#",
+      "bio": "Shaw Levin is a Senior Manager and full stack developer working in Philly for an Australian investment bank. He has focused on the financial technology industry at firms such as Vanguard and Susquehanna International Group. His most recent project involved pushing the limits of MS Dynamics CRM and he has previously built systems with many Microsoft technologies including C#, SharePoint, TypeScript, Azure Machine Learning, etc. Shaw also enjoys exploring the city by volunteering, checking out new restaurants, hackathons, museums or just walking his dog, Rosie."
+    },
+    {
+      "speaker": "Michael Luckenbill",
+      "picture": "../assets/image/mikeluckenbill.jpg#",
+      "bio": "Michael Luckenbill is a developer-businessman-race car driver-designer-swordsman who started calling himself \"the most interesting man in the world\" when he hit three hyphens. He spent 8 years solving technological problems for Temple University, Independence Blue Cross, Duane Morris, ARAMARK, LiquidHub and Endo Pharmaceuticals for cash money. Living the dream life as traveling consultant for LiquidHub; Michael continues fighting for the users much like TRON. In the early winter of 2012, Michael invented a way to apply CSS frameworks to SharePoint 2010; allowing his fellow man to embrace modern day design mythologies. Although, historically Michael has spent his career working on \"Big Data\" and solving business intelligence issues; his interests now include MVC, Design and JavaScript."
+    },
+    {
+      "speaker": "Aaron Marisi",
+      "picture": "../assets/image/aaronmarisi.jpg#",
+      "bio": "Aaron Marisi is a Product Guidance Team Lead at Infragistics where he heads the samples development and help documentation for the NetAdvantage for ASP.NET and NetAdvantage for jQuery products. Having spent years in technical support, Aaron has witnessed first-hand how proper training can make all the difference in successfully using a framework or product. With a passion for the web and Microsoft technologies, he and his team teach thousands of customers to use NetAdvantage products with ASP.NET Web Forms, ASP.NET MVC, jQuery, jQuery UI, and jQuery Mobile frameworks."
+    },
+    {
+      "speaker": "Mike Melusky",
+      "picture": "../assets/image/mikemelusky.jpg#",
+      "bio": "Michael Melusky is a software engineer for Audacious Inquiry in Baltimore, MD. He also teaches computer science at Penn State University and Franklin and Marshall College. If he's not teaching or coding, he's either working on his cars or playing video games."
+    },
+    {
+      "speaker": "Dane Morgridge",
+      "picture": "../assets/image/danemorgridge.jpg#",
+      "bio": "Dane Morgridge has been a programmer for 15+ years and has worked with numerous technologies in this time. In addition to software development he draws comics, writes books, creates music, among other various creative activities. He can be reached through http://www.danemorgridge.com or on Twitter @danemorgridge."
+    },
+    {
+      "speaker": "Christine Murphy",
+      "picture": "../assets/image/christinemurphy.jpg#",
+      "bio": "I am a Developer with many years experience. \\r\\n\\r\\nI have two passions, quality and people. In my travels throughout the community, I meet lots of non-techies. When I tell them what I do for a living, they invariably tell me about all their troubles with different social media sites. \\r\\n\\r\\nCan you tell me how to tag someone? I don't know how to add a video to my FaceBook post. etc, All these questions gave her the idea to launch her very own YouTube channel called \"Get 'Em Online\". It is a channel dedicated to Grandma. The premise is that you would set Grandma down in front of the TV with her phone in hand. My channel would be playing on your TV, and Grandma would be following along on her phone. \\r\\n\\r\\nCreating the YouTube videos required going through a learning curve, with many trials and errors. My latest video, \"How and Why to Connect to Wifi\"(https://www.youtube.com/watch?v=9Pk6Lhvjlkk&t=2s) is my best one yet . If there had been a class at Code Camp on how to make YouTube videos, I would have taken it a long time ago. I would like to help others avoid the pitfalls and get started right away.\""
+    },
+    {
+      "speaker": "David Patrick",
+      "picture": "../assets/image/davidpatrick.jpg#",
+      "bio": "Dave has been developing database applications for over 26 years. An MCT since 2001, he has taught many classes from Intro to Visual Interdev to Advanced SharePoint Development. Dave runs four user groups, the Maryland and Pennsylvania Microsoft Developers User Group, www.mapamdug.com, MAD SharePoint, www.madsharepoint.com, the Mid Atlantic Cybersecurity Meetup, and the Baltimore Microsoft Cloud Meetup. Dave does SharePoint training and development for DSA, Inc., a DoD contractor that does great work for the Army over at Aberdeen Proving Ground."
+    },
+    {
+      "speaker": "Todd Snyder",
+      "picture": "../assets/image/toddsnyder.jpg#",
+      "bio": "Todd Snyder has been a software developer/architect for over 22 years. During that time, he has focused on providing technical guidance and leadership for the development of enterprise class systems on the Microsoft and Web Platforms. At Infragistics, he is a Product Architect on ReportPlus Web and Server Teams. Todd is the co-leader for the New Jersey .NET User Group, http://www.njdotnet.net/, and is a frequent speaker, book author and co-host of the Static Void Podcast - https://www.staticvoidpodcast.com/."
+    },
+    {
+      "speaker": "Anthony Verguldi",
+      "picture": "../assets/image/tonyverguldi-1.jpg#",
+      "bio": "Tony has worked in software development for 20+ years using various technologies, operating systems, and development languages. He has worn many hats from junior developer to development manager. For the last 10 years he has worked with the Microsoft stack, in particular the .NET framework.  \r\n\r\nIn his free time, Tony is an avid Xbox gamer. You can find him defeating the Covenant, blowing up your Titan, or taking out a Templar. He enjoys spending time with his son and daughter taking them places (such as Crystal Caverns) to experience life. He helps with his son's cub scout pack. He has been helping with Philly .NET for 5 years.\r\n\r\nCurrently, Tony works for Magenic. He can be reached via Twitter at @TonyVerJr and his blog http://verguldi.com, is in desperate need of updating."
+    },
+    {
+      "speaker": "Rick Wargo",
+      "picture": "../assets/image/rickwargo.png#",
+      "bio": "Rick Wargo is an innovative and cross-functional technology leader and architect with extensive experience in full lifecycle software development, data warehousing and analytics, business strategy, and process improvement in professional services, legal, and healthcare verticals. Rick played integral roles in developing, building, and delivering successful solution architectures in Microsoft and Open Source technologies leading up to 10x performance increases in execution and cost savings. He is currently serving as president of the Philadelphia Business Intelligence User Group. Rick is also an Alexa Champion. Find out more by visiting www.rickwargo.com."
+    }
+  ]
+}
